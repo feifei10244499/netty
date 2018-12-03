@@ -11,6 +11,10 @@
     <modules>
         <module>Echo_Client</module>
         <module>Echo_Ser</module>
+        <module>OioServer</module>
+        <module>NioServer</module>
+        <module>NettyOioServer</module>
+        <module>NettyNioServer</module>
     </modules>
 
     <dependencies>
